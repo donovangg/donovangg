@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey I'm Donovan!
 
-<!--
-**donovangomez/donovangomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm another career switcher with 10 years of customer service experience looking for a Frontend role.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my [portfolio]
+- 🌱 I’m currently learning [React], [Tailwind]
+- 🤔 I’m looking for help with switching careers
+- 💬 Ask me about idols or fighting games
+- 📫 How to reach me: [twitter] or [linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[React]: http://reactjs.org
+[Tailwind]: https://tailwindcss.com/
+[jamstack]: https://jamstack.org
+[gatsby]: https://www.gatsbyjs.com/
+[portfolio]: https://donovangomez.dev/
+[twitter]: https://twitter.com/_dono_kun
+[linkedin]: https://www.linkedin.com/in/donovan-gomez
+
