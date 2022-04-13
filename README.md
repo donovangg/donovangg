@@ -1,18 +1,18 @@
 ### Hey I'm Donovan!
 
-I'm another career switcher with 10 years of customer service experience looking for a Frontend role.
+I'm a frontend developer from Los Angeles looking to make cool stuff. I also teach kids how to code at [theCoderSchool].
 
-- 🔭 I’m currently working on my [portfolio]
-- 🌱 I’m currently learning [React], [Tailwind]
-- 🤔 I’m looking for help with switching careers
-- 💬 Ask me about idols or fighting games
+- 🔭 I’m currently looking for fulltime opportunities!
+- 🌱 I’m currently learning [NextJS]
 - 📫 How to reach me: [twitter] or [linkedin]
 
 [React]: http://reactjs.org
 [Tailwind]: https://tailwindcss.com/
 [jamstack]: https://jamstack.org
 [gatsby]: https://www.gatsbyjs.com/
-[portfolio]: https://donovangomez.dev/
-[twitter]: https://twitter.com/_dono_kun
+[portfolio]: https://donovangomez.com/
+[twitter]: https://twitter.com/hi_im_donovan
 [linkedin]: https://www.linkedin.com/in/donovan-gomez
+[theCoderSchool]: https://www.thecoderschool.com/
+[NextJS]: https://nextjs.org/
 
