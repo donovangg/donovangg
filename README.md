@@ -18,9 +18,6 @@ Thanks for checking out my GitHub! I'm a developer from Los Angeles currently fo
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-## The Jams
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22iis5f5hi4cvwn7ojepqfrha&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 [React]: http://reactjs.org
 [Tailwind]: https://tailwindcss.com/
 [jamstack]: https://jamstack.org
