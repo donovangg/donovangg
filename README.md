@@ -17,8 +17,6 @@ Thanks for checking out my GitHub! I'm a developer from Los Angeles currently fo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donovangomez)](https://github.com/anuraghazra/github-readme-stats)
-
 [React]: http://reactjs.org
 [Tailwind]: https://tailwindcss.com/
 [jamstack]: https://jamstack.org
