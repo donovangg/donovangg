@@ -17,7 +17,7 @@ and <br> I'm always interested to learn new things.
 
 ## Let's Get in Contact!
 <p>
-  <strong><a href="https://donovangomez.com/" >Website</a></strong> |
+  <strong><a href="https://donovangomez.dev/" >Website</a></strong> |
   <strong><a href="https://twitter.com/hellodonovan_">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/donovan-gomez/">LinkedIn</a></strong> 
 </p>
