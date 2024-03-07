@@ -4,7 +4,7 @@ I'm a web developer in Los Angeles looking to build cool things. I enjoy checkin
 and <br> I'm always interested to learn new things.
 
 ## Right Now I've Been Working on:
-### [Mainichi](https://mainichi-anime.vercel.app/): A way to track anime airing everyday of the week.
+### [Mainichi](https://mainichi.vercel.app/): A way to track anime airing everyday of the week.
   Built with:<br>
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
