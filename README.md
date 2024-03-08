@@ -1,7 +1,6 @@
 # Hi I'm Donovan!
 
-I'm a web developer in Los Angeles looking to build cool things. I enjoy checking out new tech
-and <br> I'm always interested to learn new things.
+I'm just trynna build some cool things.
 
 ## Right Now I've Been Working on:
 ### [Mainichi](https://mainichi.vercel.app/): A way to track anime airing everyday of the week.
