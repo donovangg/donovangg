@@ -1,6 +1,6 @@
 # Hi I'm Donovan!
 
-I'm just trynna build some cool things.
+I had dreams of being a Frontend Developer back in 2019. It never happened and now I work helpdesk.
 
 ## Right Now I've Been Working on:
 ### [Mainichi](https://mainichi.vercel.app/): A way to track anime airing everyday of the week.
