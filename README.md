@@ -1,4 +1,5 @@
 # Hi I'm Donovan!
 
-I had dreams of being a Frontend Developer back in 2019. It never happened and now I work helpdesk.
+<img width="1285" height="716" alt="image" src="https://github.com/user-attachments/assets/17347d39-f582-40bf-b152-2848edbc1f7b" />
+
 
